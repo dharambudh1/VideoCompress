@@ -161,4 +161,3 @@ Contributions are always welcome!
 
 Inspired by the flutter_ffmpeg library.
 https://github.com/rurico/flutter_video_compress
-
